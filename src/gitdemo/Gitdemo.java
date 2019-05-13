@@ -7,7 +7,7 @@ package gitdemo;
 
 /**
  *
- * @author New 2019
+ * @author New 
  */
 public class Gitdemo {
 
